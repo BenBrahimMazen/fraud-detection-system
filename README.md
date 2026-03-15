@@ -16,11 +16,11 @@ A **production-grade** credit card fraud detection system built end-to-end — f
 
 | Live Prediction | Model Performance |
 |---|---|
-| ![Live Prediction](docs/screenshots/live_prediction.png) | ![Model Performance](docs/screenshots/model_performance.png) |
+| ![Live Prediction](docs/screenshots/live_prediction.PNG) | ![Model Performance](docs/screenshots/model_performance.PNG) |
 
 | Data Insights (SHAP) | FastAPI Swagger |
 |---|---|
-| ![Data Insights](docs/screenshots/data_insights.png) | ![Swagger UI](docs/screenshots/swagger_ui.png) |
+| ![Data Insights](docs/screenshots/data_insights.PNG) | ![Swagger UI](docs/screenshots/swagger_ui.PNG) |
 
 ---
 
